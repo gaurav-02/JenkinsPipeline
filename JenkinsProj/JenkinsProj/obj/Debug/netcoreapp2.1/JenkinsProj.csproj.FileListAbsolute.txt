@@ -1,0 +1,5 @@
+C:\Users\gauravchaurasia\Desktop\JenkinsPipeline\JenkinsProj\JenkinsProj\obj\Debug\netcoreapp2.1\JenkinsProj.csproj.AssemblyReference.cache
+C:\Users\gauravchaurasia\Desktop\JenkinsPipeline\JenkinsProj\JenkinsProj\obj\Debug\netcoreapp2.1\JenkinsProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gauravchaurasia\Desktop\JenkinsPipeline\JenkinsProj\JenkinsProj\obj\Debug\netcoreapp2.1\JenkinsProj.AssemblyInfoInputs.cache
+C:\Users\gauravchaurasia\Desktop\JenkinsPipeline\JenkinsProj\JenkinsProj\obj\Debug\netcoreapp2.1\JenkinsProj.AssemblyInfo.cs
+C:\Users\gauravchaurasia\Desktop\JenkinsPipeline\JenkinsProj\JenkinsProj\obj\Debug\netcoreapp2.1\JenkinsProj.csproj.CoreCompileInputs.cache
