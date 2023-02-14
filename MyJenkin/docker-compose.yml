@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  myjenkin:
+    image: ${DOCKER_REGISTRY-}myjenkin
+    build:
+      context: .
+      dockerfile: MyJenkin/Dockerfile
